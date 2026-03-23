@@ -1,0 +1,102 @@
+Módulo básico de java
+
+Exercícios de Introdução
+
+Exercícios de Laço de Repetição
+
+Exe01 - Faça um programa que inicia uma contagem regressiva a partir de 10 até 1, imprimindo cada número na tela.
+
+Exe02 - Implemente um jogo em que o computador escolhe um número aleatório entre 1 e 100, e o jogador tenta adivinhar. O jogo continua até que o jogador acerte o número.
+
+Exe03 - Crie um programa que receba um número inteiro e calcule a soma dos seus dígitos.
+
+Exe04 - Peça ao usuário para inserir um número e imprima a tabuada desse número de 1 a 10.
+
+Exe05 - Desenvolva um programa que use um loop while para gerar uma sequência de números pares a partir de 2 e imprima cada número na tela até que o número gerado seja maior do que 20.
+
+Exe06 - O aniversário de Genésia
+Genésia quer fazer uma contagem regressiva de dias até seu aniversário. Escreva um programa que receba o número de dias
+até o aniversário dela e conte até zero, exibindo uma mensagem para cada dia que passa.
+
+Exe07 - Loja de Tintas de Seu Alfredo
+Seu Alfredo precisa calcular o valor total das latas de tinta vendidas em um dia.
+Para isso, crie um programa que deve perguntar quantas latas foram vendidas e o preço de cada uma, repetindo o processo
+até que todos os preços sejam informados, e exibindo o total no final.
+
+Exe08 - Sequência dos Números Ímpares
+Francisca Leopoldina quer visualizar todos os números ímpares de 1 até um valor máximo definido por ela.
+Crie um programa que exiba a sequência de números ímpares até o valor escolhido.
+
+Exe09 - Quizz do Conhecimento
+Crie um pequeno quiz de 5 perguntas. Cada vez que o usuário responde, o programa deve exibir a próxima pergunta e
+ao final mostrar o número total de acertos.
+
+Exe10 - Multiplicação com Tabela
+Ermengarda quer estudar a tabuada de um número específico.
+Escreva um programa que pergunte qual número ela deseja estudar e exiba a tabuada dele do 1 até o 10.
+
+Exe11 - Escreva um programa que mostre na tela a seguinte contagem: 6 7 8 9 10 11 Acabou!
+
+Exe12 - Faça um algoritmo que mostre na tela a seguinte contagem: 10 9 8 7 6 5 4 3 Acabou!
+
+Exe13 - Crie um aplicativo que mostre na tela a seguinte contagem: 0 3 6 9 12 15 18 Acabou!
+
+Exe14 - Desenvolva um programa que mostre na tela a seguinte contagem: 100 95 90 85 80 ... 0 Acabou!
+
+Exe15 - Faça um algoritmo que pergunte ao usuário um número inteiro e positivo qualquer e mostre uma contagem até esse valor: Ex: Digite um valor: 35 Contagem: 1 2 3 4 5 6 7 ... 33 34 35 Acabou!
+
+Exe16 - Desenvolva um algoritmo que mostre uma contagem regressiva de 30 até 1, marcando os números que forem divisíveis por 4, exatamente como mostrado abaixo: 30 29 [28] 27 26 25 [24] 23 22 21 [20] 19 18 17 [16]...
+
+Exe17 - Crie um algoritmo que leia o valor inicial da contagem, o valor final e o incremento, mostrando em seguida todos os valores no intervalo: Ex: Digite o primeiro Valor: 3 Digite o último Valor: 10 Digite o incremento: 2 Contagem: 3 5 7 9 Acabou!
+
+Exe18 - O programa acima vai ter um problema quando digitarmos o primeiro valor maior que o último. Resolva esse problema com um código que funcione em qualquer situação.
+
+Exe19 - Crie um programa que calcule e mostre na tela o resultado da soma entre 6 + 8 + 10 + 12 + 14 + ... + 98 + 100.
+
+Exe20 - Desenvolva um aplicativo que mostre na tela o resultado da expressão 500 + 450 + 400 + 350 + 300 + ... + 50 + 0
+
+Exe21 - Faça um programa que leia 7 números inteiros e no final mostre o somatório entre eles.
+
+Exe22 - Crie um programa que leia 6 números inteiros e no final mostre quantos deles são pares e quantos são ímpares.
+
+Exe23 - Desenvolva um programa que faça o sorteio de 20 números entre 0 e 10 e mostre na tela: a) Quais foram os números sorteados b) Quantos números estão acima de 5 c) Quantos números são divisíveis por 3
+
+Exe24 - Faça um aplicativo que leia o preço de 8 produtos. No final, mostre na tela qual foi o maior e qual foi o menor preço digitados.
+
+Exe25 - Crie um algoritmo que leia a idade de 10 pessoas, mostrando no final: a) Qual é a média de idade do grupo b) Quantas pessoas tem mais de 18 anos c) Quantas pessoas tem menos de 5 anos d) Qual foi a maior idade lida
+
+Exe26 - Faça um programa que leia a idade e o gênero de 5 pessoas, mostrando no final: a) Quantos homens foram cadastrados b) Quantas mulheres foram cadastradas c) A média de idade do grupo d) A média de idade dos homens e) Quantas mulheres tem mais de 20 anos
+
+Exe27 - Desenvolva um aplicativo que leia o peso e a altura de 7 pessoas, mostrando no final: a) Qual foi a média de altura do grupo b) Quantas pessoas pesam mais de 90Kg c) Quantas pessoas que pesam menos de 50Kg tem menos de 1.60m d) Quantas pessoas que medem mais de 1.90m pesam mais de 100Kg.
+
+Exe28 - Vamos melhorar o jogo que fizemos no exercício de adivinhação. A partir de agora, o computador vai sortear um número entre 1 e 10 e o jogador vai ter 4 tentativas para tentar acertar
+
+Exe29 - Crie um programa que leia vários números pelo teclado e mostre no final o somatório entre eles. Obs: O programa será interrompido quando o número 1111 for digitado
+
+Exe30 - Desenvolva um aplicativo que leia o salário e o gênero de vários funcionários. No final, mostre o total de salários pagos aos homens e o total pago às mulheres. O programa vai perguntar ao usuário se ele quer continuar ou não sempre que ler os dados de um funcionário.
+
+Exe31 - Faça um algoritmo que leia a idade de vários alunos de uma turma. O programa vai parar quando for digitada a idade 999. No final, mostre quantos alunos existem na turma e qual é a média de idade do grupo.
+
+Exe32 - Desenvolva um algoritmo que leia o nome, a idade e o sexo de várias pessoas. O programa vai perguntar se o usuário quer ou não continuar. No final, mostre: a) O nome da pessoa mais velha b) O nome da mulher mais jovem c) A média de idade do grupo d) Quantos homens tem mais de 30 anos e) Quantas mulheres tem menos de 18 anos
+
+Exe33 - Crie um programa que leia o gênero e a idade de várias pessoas. O programa vai perguntar se o usuário quer continuar ou não a cada pessoa. No final, mostre: a) qual é a maior idade lida b) quantos homens foram cadastrados c) qual é a idade da mulher mais jovem d) qual é a média de idade entre os homens
+
+Exe34 - Crie um programa que mostre na tela a seguinte contagem, usando a estrutura “do-while” 0 3 6 9 12 15 18 21 24 27 30 Acabou!
+
+Exe35 - Faça um programa usando a estrutura “do-while” que leia a idade de várias pessoas. A cada laço, você deverá perguntar para o usuário se ele quer ou não continuar a digitar dados. No final, quando o usuário decidir parar, mostre na tela: a) Quantas idades foram digitadas b) Qual é a média entre as idades digitadas c) Quantas pessoas tem 21 anos ou mais.
+
+Exe36 - Crie um programa usando a estrutura “do-while” que leia vários números. A cada laço, pergunte se o usuário quer continuar ou não. No final, mostre na tela: a) O somatório entre todos os valores b) Qual foi o menor valor digitado c) A média entre todos os valores d) Quantos valores são pares
+
+Exe37 - Desenvolva um programa usando a estrutura “for” que mostre na tela a seguinte contagem: 0 5 10 15 20 25 30 35 40 Acabou!
+
+Exe38 - Desenvolva um programa usando a estrutura “for” que mostre na tela a seguinte contagem: 100 90 80 70 60 50 40 30 20 10 0 Acabou!
+
+Exe39- Escreva um programa que leia um número qualquer e mostre a tabuada desse número, usando a estrutura “for”. Ex: Digite um valor: 5 5 x 1 = 5 5 x 2 = 10 5 x 3 = 15 ...
+
+Exe40 - Faça um programa usando a estrutura “for” que leia um número inteiro positivo e mostre na tela uma contagem de 0 até o valor digitado: Ex: Digite um valor: 9 Contagem: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, FIM!
+
+Exe41 - Crie um programa que leia gênero e peso de 8 pessoas, usando a estrutura “for”. No final, mostre na tela: a) Quantas mulheres foram cadastradas b) Quantos homens pesam mais de 100Kg c) A média de peso entre as mulheres d) O maior peso entre os homens
+
+Exe42 - Desenvolva um programa que leia o primeiro termo e a razão de uma PA (Progressão Aritmética), mostrando na tela os 10 primeiros elementos da PA e a soma entre todos os valores da sequência.
+
+Exe43 - Faça um programa que mostre os 10 primeiros elementos da Sequência de Fibonacci: 1 1 2 3 5 8 13 21...
